@@ -79,10 +79,22 @@ Full-stack fitness platform built with a modern React/TypeScript stack.
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&card_width=330"/>
+</td>
 
-<img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img width="32%" src="https://streak-stats.demolab.com?user=ShahdNazzal&theme=radical&hide_border=true" />
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=330"/>
+</td>
 
-</div>
+<td>
+<img src="https://streak-stats.demolab.com?user=ShahdNazzal&theme=radical&hide_border=true&card_width=330"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Building intelligent, practical AI systems — one project at a time.</sub>
+</p>
