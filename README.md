@@ -85,7 +85,7 @@ Full-stack fitness platform built with a modern React/TypeScript stack.
 
 <br><br>
 
-<img height="200" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahdNazzal&theme=radical&hide_border=true" />
+<img height="200" width="70%" src="https://streak-stats.demolab.com?user=ShahdNazzal&theme=radical&hide_border=true" />
 
 </div>
 
