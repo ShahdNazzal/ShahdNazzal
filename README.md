@@ -74,14 +74,13 @@ Full-stack fitness platform built with a modern React/TypeScript stack.
 </table>
 
 ---
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img width="32%" src="https://streak-stats.demolab.com?user=ShahdNazzal&theme=radical&hide_border=true" />
+<img width="32%" height="220" src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="32%" height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="32%" height="220" src="https://streak-stats.demolab.com?user=ShahdNazzal&theme=radical&hide_border=true" />
 
 </div>
 
