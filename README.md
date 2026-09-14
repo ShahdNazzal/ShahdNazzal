@@ -75,12 +75,24 @@ Full-stack fitness platform built with a modern React/TypeScript stack.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ShahdNazzal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShahdNazzal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahdNazzal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<p align="center">
+  <sub>Building intelligent, practical AI systems — one project at a time.</sub>
+</p>
